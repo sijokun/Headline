@@ -72,6 +72,9 @@
             "footer_text": {
                 "type": "text"
             },
+            "secondery_footer_text": {
+                "type": "text"
+            },
             "enter_tag_slugs_for_primary_sections": {
                 "type": "text",
                 "group": "homepage"
